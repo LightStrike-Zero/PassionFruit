@@ -1,0 +1,476 @@
+current_ratings:
+  Collingwood: 1594.56
+  Brisbane: 1565.99
+  Melbourne: 1561.52
+  Port Adelaide: 1509.61
+  Carlton: 1498.03
+  Geelong: 1473.29
+  Sydney: 1460.47
+  Greater Western Sydney: 1459.04
+  Western Bulldogs: 1406.18
+  St Kilda: 1388.17
+  Adelaide: 1381.4
+  Richmond: 1344.54
+  Fremantle: 1339.01
+  Gold Coast: 1293.05
+  Essendon: 1245.12
+  Hawthorn: 1204.92
+  North Melbourne: 1000.5
+  West Coast: 941.06
+ratings_by_round:
+  2023R01:
+    Geelong: 1581.93
+    Melbourne: 1568.06
+    Collingwood: 1546.06
+    Sydney: 1507.88
+    Brisbane: 1479.44
+    Port Adelaide: 1468.56
+    Carlton: 1442.45
+    Richmond: 1421.43
+    Western Bulldogs: 1398.83
+    Fremantle: 1388.38
+    St Kilda: 1379.75
+    Greater Western Sydney: 1354.01
+    Gold Coast: 1314.44
+    Adelaide: 1302.67
+    Essendon: 1271.78
+    Hawthorn: 1196.53
+    North Melbourne: 1057.34
+    West Coast: 986.9
+  2023R02:
+    Collingwood: 1573.77
+    Geelong: 1561.22
+    Melbourne: 1549.32
+    Sydney: 1519.44
+    Brisbane: 1498.19
+    Carlton: 1463.17
+    Port Adelaide: 1440.85
+    Richmond: 1432.17
+    St Kilda: 1406.65
+    Western Bulldogs: 1371.93
+    Fremantle: 1362.27
+    Greater Western Sydney: 1327.25
+    Gold Coast: 1297.61
+    Adelaide: 1291.93
+    Essendon: 1288.61
+    Hawthorn: 1184.96
+    North Melbourne: 1083.46
+    West Coast: 1013.67
+  2023R03:
+    Collingwood: 1582.97
+    Melbourne: 1572.17
+    Geelong: 1536.61
+    Sydney: 1496.59
+    Brisbane: 1477.96
+    Carlton: 1472.58
+    Richmond: 1422.96
+    Port Adelaide: 1419.08
+    St Kilda: 1416.74
+    Western Bulldogs: 1392.15
+    Fremantle: 1367.13
+    Gold Coast: 1322.22
+    Greater Western Sydney: 1317.83
+    Adelaide: 1313.7
+    Essendon: 1278.52
+    Hawthorn: 1195.7
+    North Melbourne: 1072.72
+    West Coast: 1008.81
+  2023R04:
+    Melbourne: 1574.54
+    Collingwood: 1561.63
+    Geelong: 1546.71
+    Brisbane: 1499.3
+    Sydney: 1478.3
+    Carlton: 1475.31
+    Port Adelaide: 1437.38
+    St Kilda: 1436.2
+    Western Bulldogs: 1408.48
+    Richmond: 1406.63
+    Fremantle: 1344.65
+    Adelaide: 1336.17
+    Gold Coast: 1302.75
+    Greater Western Sydney: 1301.14
+    Essendon: 1295.21
+    Hawthorn: 1185.6
+    North Melbourne: 1069.99
+    West Coast: 1006.44
+  2023R05:
+    Collingwood: 1571.44
+    Melbourne: 1549.55
+    Geelong: 1548.72
+    Brisbane: 1505.15
+    Sydney: 1495.82
+    Port Adelaide: 1451.13
+    Carlton: 1436.66
+    St Kilda: 1426.39
+    Western Bulldogs: 1394.72
+    Richmond: 1389.11
+    Adelaide: 1374.82
+    Fremantle: 1357.85
+    Essendon: 1320.21
+    Greater Western Sydney: 1311.33
+    Gold Coast: 1289.55
+    Hawthorn: 1175.41
+    North Melbourne: 1064.15
+    West Coast: 1004.43
+  2023R06:
+    Geelong: 1588.2
+    Collingwood: 1577.16
+    Melbourne: 1558.07
+    Brisbane: 1512.55
+    Sydney: 1456.35
+    Port Adelaide: 1453.97
+    St Kilda: 1441.83
+    Carlton: 1421.22
+    Western Bulldogs: 1416.63
+    Adelaide: 1382.05
+    Richmond: 1380.58
+    Fremantle: 1335.94
+    Essendon: 1314.49
+    Greater Western Sydney: 1303.93
+    Gold Coast: 1298.78
+    Hawthorn: 1168.19
+    North Melbourne: 1054.92
+    West Coast: 1001.59
+  2023R07:
+    Geelong: 1593.34
+    Collingwood: 1584.52
+    Melbourne: 1562.78
+    Brisbane: 1525.3
+    Port Adelaide: 1468.45
+    Sydney: 1435.16
+    Carlton: 1430.07
+    St Kilda: 1427.36
+    Western Bulldogs: 1422.42
+    Adelaide: 1374.69
+    Richmond: 1362.11
+    Greater Western Sydney: 1325.12
+    Fremantle: 1323.19
+    Gold Coast: 1317.25
+    Essendon: 1309.34
+    Hawthorn: 1162.39
+    North Melbourne: 1050.21
+    West Coast: 992.74
+  2023R08:
+    Geelong: 1599.97
+    Collingwood: 1593.44
+    Melbourne: 1568.66
+    Brisbane: 1536.29
+    Port Adelaide: 1477.02
+    Western Bulldogs: 1433.33
+    St Kilda: 1430.43
+    Sydney: 1426.24
+    Carlton: 1419.08
+    Adelaide: 1368.05
+    Richmond: 1367.02
+    Fremantle: 1342.77
+    Greater Western Sydney: 1314.21
+    Gold Coast: 1311.38
+    Essendon: 1300.77
+    Hawthorn: 1142.81
+    North Melbourne: 1047.14
+    West Coast: 987.84
+  2023R09:
+    Collingwood: 1604.29
+    Geelong: 1576.19
+    Melbourne: 1572.94
+    Brisbane: 1544.9
+    Port Adelaide: 1482.46
+    Western Bulldogs: 1447.71
+    Sydney: 1407.7
+    Carlton: 1404.7
+    St Kilda: 1399.81
+    Adelaide: 1398.67
+    Richmond: 1390.8
+    Fremantle: 1361.31
+    Gold Coast: 1320.79
+    Greater Western Sydney: 1303.36
+    Essendon: 1292.16
+    Hawthorn: 1138.53
+    North Melbourne: 1041.7
+    West Coast: 978.43
+  2023R10:
+    Collingwood: 1611.51
+    Brisbane: 1554.18
+    Melbourne: 1554.12
+    Geelong: 1552.94
+    Port Adelaide: 1501.28
+    Western Bulldogs: 1467.06
+    Sydney: 1410.95
+    St Kilda: 1410.75
+    Carlton: 1397.48
+    Fremantle: 1384.56
+    Adelaide: 1379.32
+    Richmond: 1371.65
+    Gold Coast: 1311.5
+    Essendon: 1311.31
+    Greater Western Sydney: 1292.42
+    Hawthorn: 1171.54
+    North Melbourne: 1038.45
+    West Coast: 945.41
+  2023R11:
+    Collingwood: 1612.76
+    Melbourne: 1532.33
+    Brisbane: 1532.21
+    Geelong: 1528.42
+    Port Adelaide: 1510.93
+    Western Bulldogs: 1445.76
+    Sydney: 1425.37
+    Fremantle: 1406.35
+    Adelaide: 1401.29
+    St Kilda: 1386.8
+    Carlton: 1383.06
+    Richmond: 1362.0
+    Gold Coast: 1332.8
+    Greater Western Sydney: 1316.94
+    Essendon: 1316.74
+    Hawthorn: 1195.5
+    North Melbourne: 1037.2
+    West Coast: 939.98
+  2023R12:
+    Collingwood: 1614.04
+    Melbourne: 1541.25
+    Geelong: 1539.91
+    Brisbane: 1532.21
+    Port Adelaide: 1518.62
+    Western Bulldogs: 1434.26
+    Sydney: 1425.37
+    Fremantle: 1406.35
+    St Kilda: 1386.8
+    Adelaide: 1383.37
+    Richmond: 1375.06
+    Carlton: 1374.13
+    Gold Coast: 1350.72
+    Essendon: 1321.74
+    Greater Western Sydney: 1303.88
+    Hawthorn: 1187.8
+    North Melbourne: 1032.2
+    West Coast: 938.7
+  2023R13:
+    Collingwood: 1595.94
+    Melbourne: 1559.35
+    Geelong: 1539.91
+    Port Adelaide: 1530.05
+    Brisbane: 1505.84
+    Western Bulldogs: 1422.83
+    Sydney: 1408.71
+    St Kilda: 1403.45
+    Adelaide: 1392.13
+    Richmond: 1391.41
+    Fremantle: 1390.0
+    Carlton: 1354.59
+    Gold Coast: 1350.72
+    Essendon: 1341.28
+    Greater Western Sydney: 1309.07
+    Hawthorn: 1214.17
+    North Melbourne: 1027.01
+    West Coast: 929.94
+  2023R14:
+    Collingwood: 1595.94
+    Melbourne: 1559.35
+    Port Adelaide: 1549.59
+    Geelong: 1520.38
+    Brisbane: 1516.75
+    Western Bulldogs: 1425.62
+    Richmond: 1406.93
+    Sydney: 1397.8
+    Adelaide: 1392.13
+    St Kilda: 1387.93
+    Carlton: 1383.76
+    Greater Western Sydney: 1352.08
+    Fremantle: 1346.99
+    Essendon: 1341.28
+    Gold Coast: 1321.55
+    Hawthorn: 1214.17
+    North Melbourne: 1024.22
+    West Coast: 929.94
+  2023R15:
+    Collingwood: 1603.03
+    Port Adelaide: 1549.59
+    Melbourne: 1542.68
+    Geelong: 1537.05
+    Brisbane: 1526.43
+    Western Bulldogs: 1425.62
+    Sydney: 1408.64
+    Richmond: 1406.93
+    Adelaide: 1385.04
+    Carlton: 1383.76
+    St Kilda: 1378.25
+    Fremantle: 1362.73
+    Greater Western Sydney: 1352.08
+    Gold Coast: 1345.02
+    Essendon: 1325.54
+    Hawthorn: 1190.71
+    North Melbourne: 1024.22
+    West Coast: 919.11
+  2023R16:
+    Collingwood: 1617.43
+    Port Adelaide: 1556.07
+    Brisbane: 1553.53
+    Geelong: 1531.75
+    Melbourne: 1520.18
+    Western Bulldogs: 1437.94
+    Sydney: 1413.94
+    Carlton: 1398.62
+    Adelaide: 1392.39
+    St Kilda: 1380.25
+    Richmond: 1379.84
+    Greater Western Sydney: 1374.57
+    Fremantle: 1350.42
+    Gold Coast: 1330.61
+    Essendon: 1319.07
+    Hawthorn: 1175.85
+    North Melbourne: 1016.87
+    West Coast: 917.11
+  2023R17:
+    Collingwood: 1625.31
+    Port Adelaide: 1563.15
+    Brisbane: 1555.55
+    Geelong: 1534.79
+    Melbourne: 1529.45
+    Western Bulldogs: 1430.06
+    Carlton: 1421.47
+    Sydney: 1397.48
+    Richmond: 1396.3
+    Greater Western Sydney: 1381.82
+    Adelaide: 1374.27
+    St Kilda: 1370.98
+    Essendon: 1337.19
+    Fremantle: 1327.57
+    Gold Coast: 1323.53
+    Hawthorn: 1168.6
+    North Melbourne: 1013.83
+    West Coast: 915.09
+  2023R18:
+    Collingwood: 1632.33
+    Geelong: 1553.48
+    Melbourne: 1545.57
+    Brisbane: 1539.43
+    Port Adelaide: 1528.48
+    Carlton: 1456.13
+    Sydney: 1413.88
+    Western Bulldogs: 1413.66
+    Richmond: 1398.55
+    Greater Western Sydney: 1396.49
+    Adelaide: 1359.6
+    St Kilda: 1353.95
+    Gold Coast: 1340.57
+    Fremantle: 1320.55
+    Essendon: 1318.49
+    Hawthorn: 1182.56
+    North Melbourne: 999.87
+    West Coast: 912.85
+  2023R19:
+    Collingwood: 1642.98
+    Brisbane: 1555.03
+    Melbourne: 1553.23
+    Geelong: 1537.88
+    Port Adelaide: 1517.84
+    Carlton: 1459.11
+    Western Bulldogs: 1428.68
+    Sydney: 1424.94
+    Greater Western Sydney: 1413.3
+    Richmond: 1405.26
+    St Kilda: 1357.4
+    Adelaide: 1351.94
+    Gold Coast: 1323.76
+    Fremantle: 1309.48
+    Essendon: 1303.47
+    Hawthorn: 1175.85
+    North Melbourne: 996.41
+    West Coast: 909.87
+  2023R20:
+    Collingwood: 1620.7
+    Melbourne: 1562.8
+    Brisbane: 1522.6
+    Geelong: 1514.23
+    Port Adelaide: 1483.9
+    Carlton: 1481.38
+    Sydney: 1434.9
+    Greater Western Sydney: 1428.97
+    Western Bulldogs: 1413.02
+    Richmond: 1395.69
+    Adelaide: 1385.88
+    St Kilda: 1365.21
+    Gold Coast: 1356.2
+    Fremantle: 1333.13
+    Essendon: 1293.51
+    Hawthorn: 1168.04
+    North Melbourne: 977.75
+    West Coast: 928.53
+  2023R21:
+    Collingwood: 1590.9
+    Melbourne: 1563.87
+    Brisbane: 1530.15
+    Geelong: 1527.92
+    Carlton: 1491.55
+    Port Adelaide: 1470.2
+    Sydney: 1449.65
+    Western Bulldogs: 1439.15
+    Greater Western Sydney: 1414.22
+    Adelaide: 1399.6
+    Richmond: 1369.56
+    St Kilda: 1355.05
+    Gold Coast: 1342.47
+    Fremantle: 1325.59
+    Essendon: 1296.78
+    Hawthorn: 1197.84
+    North Melbourne: 976.68
+    West Coast: 925.26
+  2023R22:
+    Collingwood: 1603.21
+    Melbourne: 1545.79
+    Brisbane: 1539.76
+    Geelong: 1515.61
+    Carlton: 1509.63
+    Port Adelaide: 1491.63
+    Sydney: 1460.16
+    Western Bulldogs: 1415.13
+    Greater Western Sydney: 1392.8
+    Adelaide: 1389.99
+    St Kilda: 1373.8
+    Richmond: 1350.81
+    Fremantle: 1334.75
+    Gold Coast: 1331.96
+    Essendon: 1300.88
+    Hawthorn: 1221.86
+    North Melbourne: 972.58
+    West Coast: 916.09
+  2023R23:
+    Collingwood: 1585.51
+    Brisbane: 1557.47
+    Melbourne: 1549.82
+    Carlton: 1517.56
+    Port Adelaide: 1500.28
+    Geelong: 1492.73
+    Sydney: 1472.17
+    Greater Western Sydney: 1439.51
+    St Kilda: 1396.68
+    Western Bulldogs: 1386.74
+    Adelaide: 1377.97
+    Richmond: 1353.86
+    Fremantle: 1326.1
+    Gold Coast: 1324.02
+    Essendon: 1254.17
+    Hawthorn: 1217.83
+    North Melbourne: 969.52
+    West Coast: 944.49
+  2023R24:
+    Collingwood: 1594.56
+    Brisbane: 1565.99
+    Melbourne: 1561.52
+    Port Adelaide: 1509.61
+    Carlton: 1498.03
+    Geelong: 1473.29
+    Sydney: 1460.47
+    Greater Western Sydney: 1459.04
+    Western Bulldogs: 1406.18
+    St Kilda: 1388.17
+    Adelaide: 1381.4
+    Richmond: 1344.54
+    Fremantle: 1339.01
+    Gold Coast: 1293.05
+    Essendon: 1245.12
+    Hawthorn: 1204.92
+    North Melbourne: 1000.5
+    West Coast: 941.06

@@ -33,8 +33,8 @@ def download_json_files(year, rounds, folder_name):
 
 
 # Usage
-year = 2022  # Specify the year
-rounds = 24  # Number of rounds
+year = 2023  # Specify the year
+rounds = 24  # Number of rounds - use 28 if including the finals series (24 home and away rounds + 4 finals rounds)
 folder_name = f'match_stats_{year}'  # Folder to save the JSON files
 
 download_json_files(year, rounds, folder_name)
