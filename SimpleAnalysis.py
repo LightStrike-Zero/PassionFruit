@@ -1,7 +1,7 @@
 import yaml
 
 # Load the YAML file (replace 'data.yaml' with your actual file path)
-file_path = 'match_stats_2022/clean_match_data_2022.yaml'
+file_path = 'match_stats_2023/clean_match_data_2023.yaml'
 
 with open(file_path, 'r') as file:
     matches = yaml.safe_load(file)
@@ -17,8 +17,8 @@ def display_result_for_contested_possessions(matches):
         team1 = match['Team1']
         team2 = match['Team2']
 
-        team1_stat = team1['MetresGained'] + team1['ContestedPossessions'] + team1['ShotsAtGoal'] + team1['Inside50s']
-        team2_stat = team2['MetresGained'] + team2['ContestedPossessions'] + team2['ShotsAtGoal'] + team2['Inside50s']
+        team1_stat = team1['MetresGained'] + team1['Tackles'] + team1['ContestedPossessions']
+        team2_stat = team2['MetresGained'] + team2['Tackles'] + team2['ContestedPossessions']
 
         # Calculate variance
         variance = abs(team1_stat - team2_stat)
@@ -48,8 +48,8 @@ def display_result_for_contested_possessions(matches):
     lose_cp_win_percentage = (lose_cp_and_win / match_count) * 100
 
     # Display results
-    print(f"Percentage of wins while winning Contested Possession: {win_cp_win_percentage:.2f}%")
-    print(f"Percentage of wins while losing Contested Possession: {lose_cp_win_percentage:.2f}%")
+    print(f"Percentage of wins while winning stats: {win_cp_win_percentage:.2f}%")
+    print(f"Percentage of wins while losing stats: {lose_cp_win_percentage:.2f}%")
 
 
 # Display the results

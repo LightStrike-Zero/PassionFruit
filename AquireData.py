@@ -31,9 +31,10 @@ def download_json_files(year, rounds, folder_name):
         except requests.exceptions.RequestException as e:
             print(f"Failed to download {url}: {e}")
 
+# NOTE: It appears that devensive half scores had not been included prior to 2021 season
 
 # Usage
-year = 2023  # Specify the year
+year = 2024  # Specify the year
 rounds = 24  # Number of rounds - use 28 if including the finals series (24 home and away rounds + 4 finals rounds)
 folder_name = f'match_stats_{year}'  # Folder to save the JSON files
 
@@ -57,6 +58,11 @@ def extract_team_data(folder_name):
 
             # Extract TeamData
             team_data = data.get('TeamData', [])
+
+            # Skip if TeamData is empty
+            if not team_data:
+                print(f"No TeamData in {json_file}, skipping.")
+                continue
 
             # Extract relevant fields from TeamData
             match_ids = team_data[0]['MatchId']
@@ -83,8 +89,8 @@ def extract_team_data(folder_name):
             goals = team_data[0]['Goals']
             behinds = team_data[0]['Behinds']
             scores = team_data[0]['Score']
-            x_scores = team_data[0]['xScore']
-            x_score_rating = team_data[0]['xScoreRating']
+            # x_scores = team_data[0]['xScore']
+            # x_score_rating = team_data[0]['xScoreRating']
             goal_assists = team_data[0]['GoalAssists']
             tackles = team_data[0]['Tackles']
             hitouts = team_data[0]['Hitouts']
@@ -107,11 +113,37 @@ def extract_team_data(folder_name):
             behinds_from_centre_bounce = team_data[0]['BehindsFromCentreBounce']
             points_from_centre_bounce = team_data[0]['PointsFromCentreBounce']
 
+            # Extract Matches data
+            matches = data.get('Matches', [])
+            if not matches:
+                print(f"No Matches data in {json_file}, skipping.")
+                continue
 
+            # Extract HomeTeam and AwayTeam from Matches[0]
+            home_teams = matches[0]['HomeTeam']
+            away_teams = matches[0]['AwayTeam']
 
+            # Check if lengths of lists match
+            expected_matches = len(match_ids) // 2
+            if len(home_teams) != expected_matches:
+                print(f"Mismatch in number of matches in {json_file}, skipping.")
+                continue
 
             # Pair the teams for each match
             for i in range(0, len(match_ids), 2):
+                match_index = i // 2  # Calculate the match index
+
+                team1_name = teams[i]
+                team2_name = teams[i + 1]
+
+                # Get the home and away team names for this match
+                home_team_name = home_teams[match_index]
+                away_team_name = away_teams[match_index]
+
+                # Determine if team1 and team2 are home or away
+                team1_home = (team1_name == home_team_name)
+                team2_home = (team2_name == home_team_name)
+
                 team1_score = scores[i]
                 team2_score = scores[i + 1]
 
@@ -130,6 +162,7 @@ def extract_team_data(folder_name):
                     'Team1': {
                         'Name': teams[i],
                         'Abbreviation': abbreviations[i],
+                        'Home': team1_home,
                         'Result': result_team1,
                         'Age': ages[i],
                         'Experience': experiences[i],
@@ -152,8 +185,8 @@ def extract_team_data(folder_name):
                         'Goals': goals[i],
                         'Behinds': behinds[i],
                         'Score': scores[i],
-                        'xScore': x_scores[i],
-                        'xScoreRating': x_score_rating[i],
+                        # 'xScore': x_scores[i],
+                        # 'xScoreRating': x_score_rating[i],
                         'GoalAssists': goal_assists[i],
                         'Tackles': tackles[i],
                         'Hitouts': hitouts[i],
@@ -182,6 +215,7 @@ def extract_team_data(folder_name):
                     'Team2': {
                         'Name': teams[i + 1],
                         'Abbreviation': abbreviations[i + 1],
+                        'Home': team2_home,
                         'Result': result_team2,
                         'Age': ages[i + 1],
                         'Experience': experiences[i + 1],
@@ -204,8 +238,8 @@ def extract_team_data(folder_name):
                         'Goals': goals[i + 1],
                         'Behinds': behinds[i + 1],
                         'Score': scores[i + 1],
-                        'xScore': x_scores[i + 1],
-                        'xScoreRating': x_score_rating[i + 1],
+                        # 'xScore': x_scores[i + 1],
+                        # 'xScoreRating': x_score_rating[i + 1],
                         'GoalAssists': goal_assists[i + 1],
                         'Tackles': tackles[i + 1],
                         'Hitouts': hitouts[i + 1],

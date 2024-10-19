@@ -50,14 +50,12 @@ df['Goal_Accuracy_Inside50s'] = df['Goal_Accuracy'] * df['Inside50s']
 df['Goal_Accuracy_ShotsAtGoal'] = df['Goal_Accuracy'] * df['ShotsAtGoal']
 
 # Define features and target
-features = ['Age', 'Experience', 'Kicks', 'Handballs', 'Disposals',
+features = ['Kicks', 'Handballs', 'Disposals',
             'DisposalEfficiency', 'MetresGained', 'Inside50s', 'ContestedPossessions', 'GroundBallGets',
-            'Intercepts', 'TotalClearances', 'Marks', 'ContestedMarks', 'InterceptMarks', 'ShotsAtGoal',
-            'GoalAssists', 'Tackles', 'Hitouts',
+            'Intercepts', 'TotalClearances', 'Marks', 'ContestedMarks', 'InterceptMarks',
+            'Tackles', 'Hitouts',
             # Add combined features
-            'Kicks_to_Handballs', 'Efficiency_Weighted_Inside50s',
-            'Goal_Accuracy', 'xScore_Differential', 'ContestedPossessions_per_Disposal',
-            'Goal_Accuracy_Inside50s', 'Goal_Accuracy_ShotsAtGoal']
+]
 
 # Drop rows with missing 'Result' or feature values
 df = df.dropna(subset=['Result'] + features)

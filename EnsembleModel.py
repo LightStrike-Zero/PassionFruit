@@ -38,10 +38,12 @@ df = df[df['Result'] != 'D']
 df['Result'] = df['Result'].map({'W': 1, 'L': 0})
 
 # Define features and target
-features = ['Age', 'Experience', 'Kicks', 'Handballs', 'Disposals',
+features = ['Kicks', 'Handballs', 'Disposals',
             'DisposalEfficiency', 'MetresGained', 'Inside50s', 'ContestedPossessions', 'GroundBallGets',
-            'Intercepts', 'TotalClearances', 'Marks', 'ContestedMarks', 'InterceptMarks', 'ShotsAtGoal',
-            'GoalAssists', 'Tackles', 'Hitouts']
+            'Intercepts', 'TotalClearances', 'Marks', 'ContestedMarks', 'InterceptMarks',
+            'Tackles', 'Hitouts',
+            # Add combined features
+]
 
 # Drop rows with missing 'Result' or feature values
 df = df.dropna(subset=['Result'] + features)
@@ -67,7 +69,7 @@ ensemble = VotingClassifier(estimators=[
     ('log_reg', log_reg),
     ('random_forest', random_forest),
     ('xgboost', xgboost)
-], voting='hard')  # 'hard' voting means majority voting, 'soft' uses predicted probabilities
+], voting='soft')  # 'hard' voting means majority voting, 'soft' uses predicted probabilities
 
 # Perform 5-fold cross-validation on the training set
 cv_scores = cross_val_score(ensemble, X_train, y_train, cv=5)
