@@ -1,0 +1,2013 @@
+- MatchId: 20240101
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - &id001 !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - !!binary |
+    CCFgVinjS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HCCg26rdR0A=
+- MatchId: 20240102
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    W0PO8Tg4S0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    kenzerfZRkA=
+- MatchId: 20240103
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +xKdn2QOSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BnbEXi/gSUA=
+- MatchId: 20240104
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    611Kp2lPT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8ZnyNTdkRkA=
+- MatchId: 20240105
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TEWUTKMdS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sriQE16ASkA=
+- MatchId: 20240106
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zf4FQ67DS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rRTxDouUSEA=
+- MatchId: 20240107
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    1fpJ8E/WTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zGNG9n5DSUA=
+- MatchId: 20240108
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tIGMONfoTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4qgjengzREA=
+- MatchId: 20240109
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    y+0lzZaqSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    s3++nrNsSEA=
+- MatchId: 20240201
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KC4TaBIdS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    U4nTFY6kRkA=
+- MatchId: 20240202
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jclKzPm/SUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vAV/vCO1TUA=
+- MatchId: 20240203
+  PredictedTeamWithMoreInside50s: North Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    afF+zS6QSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tUnaDI7ISUA=
+- MatchId: 20240204
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DD0M4T1wSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZPOQwDA/REA=
+- MatchId: 20240205
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    r8W43xW+TUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mF+kJprsSEA=
+- MatchId: 20240206
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PRyuEr8QTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XXLhtQYYR0A=
+- MatchId: 20240207
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    88lv5FcUTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dzIn/s50SEA=
+- MatchId: 20240208
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SixWZONqT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OcDTUUvuR0A=
+- MatchId: 20240301
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mTAhUhsUR0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    A5jVBELJSUA=
+- MatchId: 20240302
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OHZgwcwWTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OoC38w3uR0A=
+- MatchId: 20240303
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JvCNx1XvTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tqq17gu+RUA=
+- MatchId: 20240304
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    utYSLO59SUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YIiu0rNhSkA=
+- MatchId: 20240305
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vMn+WreGS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tT6bOZS4SUA=
+- MatchId: 20240306
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +L+8q51pS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8W2jT+oPR0A=
+- MatchId: 20240307
+  PredictedTeamWithMoreInside50s: Richmond
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    I5r4ts8sTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    c9nr4EGwS0A=
+- MatchId: 20240308
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wOf7+O64SUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    v4UcSLRRTUA=
+- MatchId: 20240401
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uBW0gTemSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    191I7dutSEA=
+- MatchId: 20240402
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WNsKB9yEUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4lR7lnrkQ0A=
+- MatchId: 20240403
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yQxAV+XGTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oOqLnZm9REA=
+- MatchId: 20240404
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9saSYeOqS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eduH+H25SEA=
+- MatchId: 20240405
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rbtZoaTzSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    guxxid02SEA=
+- MatchId: 20240406
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2sdKMMW5TUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dO8J/bBITEA=
+- MatchId: 20240407
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9/eysneYTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hpvOkig0S0A=
+- MatchId: 20240408
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XwLQBlhHTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UJlmNvkvR0A=
+- MatchId: 20240409
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wMCegoe8SkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bAi8FkI1SEA=
+- MatchId: 20240501
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6kIzTnV9SkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6+ik3lOeR0A=
+- MatchId: 20240502
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    S5Tti25gSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zOr9F+SFRkA=
+- MatchId: 20240503
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9uGxkC4uSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QVcEaqR0SEA=
+- MatchId: 20240504
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2zDPJz3kRkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    kH6P7NBYS0A=
+- MatchId: 20240505
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VCskPy/hTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9wMwU3h+RUA=
+- MatchId: 20240506
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YO7t38ftRUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UU6jqrhMSUA=
+- MatchId: 20240507
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    REfbqpDOTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ynESkhwJRUA=
+- MatchId: 20240508
+  PredictedTeamWithMoreInside50s: West Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    p6INnUWUSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xLo8lNuTREA=
+- MatchId: 20240601
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    B/yy59HUTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7MGLUQFURUA=
+- MatchId: 20240602
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NLiuXfApTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2EUXs8uWSUA=
+- MatchId: 20240603
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yTIno3OUT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VQST9HnpR0A=
+- MatchId: 20240604
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mzsvCviCT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Aw4V8TuJSUA=
+- MatchId: 20240605
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BYPFKyCWSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WfYJFR0CSkA=
+- MatchId: 20240606
+  PredictedTeamWithMoreInside50s: West Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    e8AC6c9YSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    IO6H8AjpREA=
+- MatchId: 20240607
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tsQ+/ymsS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7+gI7ePkRkA=
+- MatchId: 20240608
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yz+52wA8TUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jkEi044+R0A=
+- MatchId: 20240701
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    S6JCylspS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    c7r6FJf8RkA=
+- MatchId: 20240702
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    yAx4YoacS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WuWUCCZHSkA=
+- MatchId: 20240703
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K4eM27+FTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gYG9TZI6R0A=
+- MatchId: 20240704
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JK1oAv7tS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    r6rNcwnjQ0A=
+- MatchId: 20240705
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pbj172tcTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    10aOkgLhRkA=
+- MatchId: 20240706
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    F7Gs6yDdTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ndk896tXSUA=
+- MatchId: 20240707
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XTfSZBq1TEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9dZdUHvPR0A=
+- MatchId: 20240708
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    T0IB4BwnTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KCosQgkGREA=
+- MatchId: 20240709
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Y2hAfWm+TEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    faniFM3RRUA=
+- MatchId: 20240801
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ta3nw6nqRkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OePTw0+aS0A=
+- MatchId: 20240802
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +/wMykLzSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5T6irSQrR0A=
+- MatchId: 20240803
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xbqrWI5NTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PY1Ng90zR0A=
+- MatchId: 20240804
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WN3UkfV8S0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zDSt3JSeREA=
+- MatchId: 20240805
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    u/OEfe5/S0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /3mIbTfKSEA=
+- MatchId: 20240806
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    dLH3HVN+SEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5P8frcpES0A=
+- MatchId: 20240807
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    D8O/eJr4TEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MJAPU4D1QkA=
+- MatchId: 20240808
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5wl+B7mYS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    DcGx1aLyRkA=
+- MatchId: 20240809
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zIifIAi/T0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9ngmYk8GRkA=
+- MatchId: 20240901
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Gf1+RTKfR0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2UdtRCKyS0A=
+- MatchId: 20240902
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eBrkoZ6ZSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Q0r67/mMSEA=
+- MatchId: 20240903
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7r0wTfDDSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RMEpFFISSUA=
+- MatchId: 20240904
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HlXH/X94SEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    G//SRaFmSEA=
+- MatchId: 20240905
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OjD8TK/HSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    APrhPd4DRkA=
+- MatchId: 20240906
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    msiDx0/fUUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    MOdbTJ0jREA=
+- MatchId: 20240907
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uSmNLBDEUUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    1JpNoo8JS0A=
+- MatchId: 20240908
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BEI54MySTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    OfKR+ys0Q0A=
+- MatchId: 20240909
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0+A7vq4dSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nIb/vK4TTUA=
+- MatchId: 20241001
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    go5OeV0wUkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /ZbR1EeaTUA=
+- MatchId: 20241002
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    heKf0ycfTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YUkhcSCXR0A=
+- MatchId: 20241003
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rstz1s9BSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vfVXLTS4R0A=
+- MatchId: 20241004
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fuini98cT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PDv7W4L8RUA=
+- MatchId: 20241005
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ar9JKaAVTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cq5AAvUYRUA=
+- MatchId: 20241006
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8FsI98MiUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UFp9XJ+5QkA=
+- MatchId: 20241007
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0i1TkfLLSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    l/TBQXPURUA=
+- MatchId: 20241008
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qMnZ887mSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8tB09GFVSEA=
+- MatchId: 20241009
+  PredictedTeamWithMoreInside50s: West Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2FqmqwWuS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4ujf3ClTRkA=
+- MatchId: 20241101
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HwqMg4XORkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lq86YPEISkA=
+- MatchId: 20241102
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NgvW4PKnSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YYmdHyIOS0A=
+- MatchId: 20241103
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sPEWx21BSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rN1Tkl4PREA=
+- MatchId: 20241104
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mov6emqqS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    p+zpS99ZR0A=
+- MatchId: 20241105
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jKefQTmoSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pp2PoGWVSEA=
+- MatchId: 20241106
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    zs7u14JuTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oSwlKBqvSkA=
+- MatchId: 20241107
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HRW+I8QsSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xpo0HMw+S0A=
+- MatchId: 20241108
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FpHZbsoQT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    d6qk/UfXRkA=
+- MatchId: 20241109
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Dxi5mrxGTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PvC4Pky8QkA=
+- MatchId: 20241201
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lyM1IkcMSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    B8WpiyWmR0A=
+- MatchId: 20241202
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Bz8Gs0m7TEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hp/F2byCSUA=
+- MatchId: 20241203
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /9xtWT1UTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    4Lqwy9tDR0A=
+- MatchId: 20241204
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qvgB5cntSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aW9JVlDHR0A=
+- MatchId: 20241205
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    QG1yPITzTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ek2sZv81RkA=
+- MatchId: 20241206
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qb6bCkeaUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EOzyh9w/RUA=
+- MatchId: 20241207
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lTjqIF4qSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vepd+BFrTkA=
+- MatchId: 20241301
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ml+9vqZGSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +AjET9uVSUA=
+- MatchId: 20241302
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YmPYjlpRT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    putwaXv/R0A=
+- MatchId: 20241303
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UuCSwUgITUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pz9/tCJWSUA=
+- MatchId: 20241304
+  PredictedTeamWithMoreInside50s: West Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SsW4gvhMSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Xd2SDcgSSUA=
+- MatchId: 20241305
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vrjAjpXQR0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pgVkBnnyR0A=
+- MatchId: 20241306
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    45zHaYIJTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FhR3pZe9SEA=
+- MatchId: 20241307
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    1lhK102ER0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oTFn+qGtSkA=
+- MatchId: 20241308
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pG/AFdE4SEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ged460F6SUA=
+- MatchId: 20241401
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0x+uSw8eS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eIjnR/gYSUA=
+- MatchId: 20241402
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uo/15xDhTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CuUcQeodR0A=
+- MatchId: 20241403
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    41RjL8YcTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    O7mmPuaWRkA=
+- MatchId: 20241404
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FaOY3zOYTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    npBlkvp8RUA=
+- MatchId: 20241405
+  PredictedTeamWithMoreInside50s: North Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    C5mpXqWHSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7kinub9qSEA=
+- MatchId: 20241406
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    27BiQBeETUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    anOkOhJ7SEA=
+- MatchId: 20241501
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ilQEil9BUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EaVAzaMfSEA=
+- MatchId: 20241502
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gr7gS5vcUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bou56gLuSEA=
+- MatchId: 20241503
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZbNDXAHbTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cr1zys1CTEA=
+- MatchId: 20241504
+  PredictedTeamWithMoreInside50s: North Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jw+3U9BsR0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    SNZ998iSREA=
+- MatchId: 20241505
+  PredictedTeamWithMoreInside50s: West Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hs03WI+8SkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    v3fmBvBaS0A=
+- MatchId: 20241506
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eTivUxTXSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bB2DV8GeRUA=
+- MatchId: 20241601
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    W5ZnqZzvTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    115kd+DWSUA=
+- MatchId: 20241602
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YdcDjG/rTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    K7HuLoqqS0A=
+- MatchId: 20241603
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WQeJ01L1S0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CXq/EtHTR0A=
+- MatchId: 20241604
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ataMKjvKT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rFD1rO8sSkA=
+- MatchId: 20241605
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NSsEtCIlSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZF+JP99GRUA=
+- MatchId: 20241606
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    W7Z7KVOBTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7OZxqkj5R0A=
+- MatchId: 20241607
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    oCjST8dOSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    JtNe4CEJR0A=
+- MatchId: 20241608
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vYJzU4KlS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ryk5AzZ3SEA=
+- MatchId: 20241609
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    qxrie2w+TEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tgke+D+sQkA=
+- MatchId: 20241701
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    O9JTdBCJTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    URn3QoF1RUA=
+- MatchId: 20241702
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    I07AMm6tS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ux7CRcPwRUA=
+- MatchId: 20241703
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    AUn49Xi/TEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CLSRC9vsSEA=
+- MatchId: 20241704
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    b43zqTeaTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XoVROCl8RUA=
+- MatchId: 20241705
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lok8YVMzS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /9+bWzm4SEA=
+- MatchId: 20241706
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3zdckdIrS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    lhh9h/YBRkA=
+- MatchId: 20241707
+  PredictedTeamWithMoreInside50s: North Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hsSuBw6HSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    KrnGjE5VSkA=
+- MatchId: 20241708
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +os7PTrjS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7uuAZhjAREA=
+- MatchId: 20241709
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    UIpUa5Y9R0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LkXiJRNTTEA=
+- MatchId: 20241801
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hZOGL5pcSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bW/NkoxdRkA=
+- MatchId: 20241802
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    R43219vTSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    VLCaH1t2RkA=
+- MatchId: 20241803
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    35ueNJOcTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    c9xoFN6uSkA=
+- MatchId: 20241804
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    O7r4X+I6R0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ci4aariSSEA=
+- MatchId: 20241805
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZNcSHC/RSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CHFJkf9hSEA=
+- MatchId: 20241806
+  PredictedTeamWithMoreInside50s: Richmond
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cuMapj0lRkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Nz6nCLwlSUA=
+- MatchId: 20241807
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pB5CJOUOUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    M5HVttROQkA=
+- MatchId: 20241808
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    siWuC2E3S0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9aOJDf13SEA=
+- MatchId: 20241809
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    j2UCkbBFTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Pe08VIedSkA=
+- MatchId: 20241901
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LGLiSK5wTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    s9p31i3gSEA=
+- MatchId: 20241902
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    E/La+p25S0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    umZbihbZR0A=
+- MatchId: 20241903
+  PredictedTeamWithMoreInside50s: Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FQi9vQ2LTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FOnuUkHwTEA=
+- MatchId: 20241904
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hJ3ZSlW6T0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    P3Fw+V7jREA=
+- MatchId: 20241905
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vh/Q269NUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ysFH0fh1RUA=
+- MatchId: 20241906
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cUY8JOkbSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6Lqf30BHTkA=
+- MatchId: 20241907
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    H66HRO8fUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    sMn4RQ5VR0A=
+- MatchId: 20241908
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CI4F9pQoUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    xLUopfA4RkA=
+- MatchId: 20241909
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    cxydKhDbTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6dXTVAY1QkA=
+- MatchId: 20242001
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FkII0sZeTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Pp59IAXnRUA=
+- MatchId: 20242002
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Ow+kaP0YS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Z3lRUBA3RkA=
+- MatchId: 20242003
+  PredictedTeamWithMoreInside50s: Richmond
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    H/wMkc1bSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wFQGnGIWS0A=
+- MatchId: 20242004
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    h3rsVSstSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    pizKAdCyRUA=
+- MatchId: 20242005
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    hs3nCWkvUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    uJKHz3/eSEA=
+- MatchId: 20242006
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3vcdexOiSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tvn48+XhSEA=
+- MatchId: 20242007
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    gVeD1WakTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ItLJyOBDR0A=
+- MatchId: 20242008
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +vYds8NkSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LIFk9axZRUA=
+- MatchId: 20242009
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    57zeK6/RTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    CFD5FBlDRkA=
+- MatchId: 20242101
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6KlFsRGTTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    9lsfqLkfSEA=
+- MatchId: 20242102
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RvdlFmDRRUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    J7SpXZ1cSkA=
+- MatchId: 20242103
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    aP8tFZnFR0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    HCZpZroES0A=
+- MatchId: 20242104
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    bVhlbgi9SUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    B3cggY7oSEA=
+- MatchId: 20242105
+  PredictedTeamWithMoreInside50s: Richmond
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    rF+yLTJ3SUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    0PiYEZwGTEA=
+- MatchId: 20242106
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YtszSX+JUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /8k6YDSfQUA=
+- MatchId: 20242107
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    myC3+k0gTUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    tkiRXytrQ0A=
+- MatchId: 20242108
+  PredictedTeamWithMoreInside50s: West Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    spm7Z48ZSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /nwc7CaSSEA=
+- MatchId: 20242109
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    YEyj3kigUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    2iRXP0jIRUA=
+- MatchId: 20242201
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    x4BvHi14SEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    mp16o9itSkA=
+- MatchId: 20242202
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    /UYauqrZRUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3NmlFSVoSUA=
+- MatchId: 20242203
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    T6VitccHT0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wO+O1vFyQ0A=
+- MatchId: 20242204
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    iAsOK0/ATUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    7Wl230GPSkA=
+- MatchId: 20242205
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZPQONEljR0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    j2zFq11pSEA=
+- MatchId: 20242206
+  PredictedTeamWithMoreInside50s: Port Adelaide
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jXjjJeeySEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    czUsaZ+2S0A=
+- MatchId: 20242207
+  PredictedTeamWithMoreInside50s: North Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    h1QFRZxvS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    RfW5MfDBSEA=
+- MatchId: 20242208
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ndbcuU0yS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    nLHbAdXkREA=
+- MatchId: 20242209
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    8bMfq2FFSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jMvv9axcSEA=
+- MatchId: 20242301
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    FiFBteX3SEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    PSVmp0xMSkA=
+- MatchId: 20242302
+  PredictedTeamWithMoreInside50s: Essendon
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    3/oOQldGSUA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    XlXfwn90SUA=
+- MatchId: 20242303
+  PredictedTeamWithMoreInside50s: Melbourne
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    +VbvqNSJTEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    NZxaY20qSEA=
+- MatchId: 20242304
+  PredictedTeamWithMoreInside50s: Greater Western Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    iCdrFDGlSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    eNYq/5+dSUA=
+- MatchId: 20242305
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jtLiJRNIUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vb4GM2HgRUA=
+- MatchId: 20242307
+  PredictedTeamWithMoreInside50s: St Kilda
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    EYoL63ReSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ml1nCesNRkA=
+- MatchId: 20242401
+  PredictedTeamWithMoreInside50s: Brisbane
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Wm17JVSlUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    5MiY8s97R0A=
+- MatchId: 20242402
+  PredictedTeamWithMoreInside50s: Carlton
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fsNhlkPUSEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    Va8UYwSFSEA=
+- MatchId: 20242403
+  PredictedTeamWithMoreInside50s: Fremantle
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    TsOp9l0ZSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    ZuDC2OAUSUA=
+- MatchId: 20242404
+  PredictedTeamWithMoreInside50s: Geelong
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LAsIDxmxUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    w8F4Z5ZzSEA=
+- MatchId: 20242405
+  PredictedTeamWithMoreInside50s: Hawthorn
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    vlhzbQW7UkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    WJF04UZBQ0A=
+- MatchId: 20242406
+  PredictedTeamWithMoreInside50s: Collingwood
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    s6lYMJ2BTkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    fl/rsCXfREA=
+- MatchId: 20242407
+  PredictedTeamWithMoreInside50s: Gold Coast
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    LBFyxkXYSkA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    BuENlF4WSEA=
+- MatchId: 20242408
+  PredictedTeamWithMoreInside50s: Sydney
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    S9BSljloS0A=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    6bnfN+GAR0A=
+- MatchId: 20242409
+  PredictedTeamWithMoreInside50s: Western Bulldogs
+  Team1Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    jNrPhvMOUEA=
+  Team2Prediction: !!python/object/apply:numpy._core.multiarray.scalar
+  - *id001
+  - !!binary |
+    wvrUJCsCSUA=
