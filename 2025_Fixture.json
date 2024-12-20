@@ -1,0 +1,1428 @@
+[
+  {
+    "round": 0,
+    "matches": [
+      {
+        "date": "Thursday, March 6",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Geelong Cats",
+        "venue": "G"
+      },
+      {
+        "date": "Friday, March 7",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Hawthorn",
+        "venue": "SCG"
+      },
+      {
+        "date": "Saturday, March 8",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Essendon",
+        "venue": "PFS"
+      },
+      {
+        "date": "Sunday, March 9",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Collingwood",
+        "venue": "ES"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 1,
+    "matches": [
+      {
+        "date": "Thursday, March 13",
+        "homeTeam": "Richmond",
+        "awayTeam": "Carlton",
+        "venue": "MCG"
+      },
+      {
+        "date": "Friday, March 14",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Essendon",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, March 15",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Fremantle",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "Saturday, March 15",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Brisbane Lions",
+        "venue": "SCG"
+      },
+      {
+        "date": "Saturday, March 15",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "North Melbourne",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, March 15",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Port Adelaide",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, March 16",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "St Kilda",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, March 16",
+        "homeTeam": "Melbourne",
+        "awayTeam": "GWS GIANTS",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, March 16",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "OS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 2,
+    "matches": [
+      {
+        "date": "Thursday, March 20",
+        "homeTeam": "Carlton",
+        "awayTeam": "Hawthorn",
+        "venue": "MCG"
+      },
+      {
+        "date": "Friday, March 21",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Collingwood",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, March 22",
+        "homeTeam": "Essendon",
+        "awayTeam": "Adelaide Crows",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, March 22",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Richmond",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, March 22",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Geelong Cats",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Sunday, March 23",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "West Coast Eagles",
+        "venue": "G"
+      },
+      {
+        "date": "Sunday, March 23",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Melbourne",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Sunday, March 23",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Sydney Swans",
+        "venue": "OS"
+      }
+    ],
+    "byes": [
+      "Gold Coast SUNS",
+      "GWS GIANTS"
+    ]
+  },
+  {
+    "round": 3,
+    "matches": [
+      {
+        "date": "Thursday, March 27",
+        "homeTeam": "Essendon",
+        "awayTeam": "Port Adelaide",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Friday, March 28",
+        "homeTeam": "Carlton",
+        "awayTeam": "Western Bulldogs",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, March 29",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, March 29",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Richmond",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, March 29",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "GWS GIANTS",
+        "venue": "UTAS"
+      },
+      {
+        "date": "Sunday, March 30",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "North Melbourne",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, March 30",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Fremantle",
+        "venue": "OS"
+      }
+    ],
+    "byes": [
+      "Brisbane Lions",
+      "Collingwood",
+      "Geelong Cats",
+      "Sydney Swans"
+    ]
+  },
+  {
+    "round": 4,
+    "matches": [
+      {
+        "date": "Thursday, April 3",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Carlton",
+        "venue": "MCG"
+      },
+      {
+        "date": "Friday, April 4",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Melbourne",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "Saturday, April 5",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Adelaide Crows",
+        "venue": "PFS"
+      },
+      {
+        "date": "Saturday, April 5",
+        "homeTeam": "Richmond",
+        "awayTeam": "Brisbane Lions",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, April 5",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Sydney Swans",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Sunday, April 6",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "West Coast Eagles",
+        "venue": "ES"
+      },
+      {
+        "date": "Sunday, April 6",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "St Kilda",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, April 6",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Western Bulldogs",
+        "venue": "OS"
+      }
+    ],
+    "byes": [
+      "Essendon",
+      "Hawthorn"
+    ]
+  },
+  {
+    "round": 5,
+    "matches": [
+      {
+        "date": "Thursday, April 10",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Geelong Cats",
+        "venue": "AO"
+      },
+      {
+        "date": "Friday, April 11",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Sydney Swans",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, April 12",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "BP"
+      },
+      {
+        "date": "Saturday, April 12",
+        "homeTeam": "Carlton",
+        "awayTeam": "West Coast Eagles",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, April 12",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Brisbane Lions",
+        "venue": "NO"
+      },
+      {
+        "date": "Saturday, April 12",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Essendon",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, April 13",
+        "homeTeam": "Richmond",
+        "awayTeam": "Fremantle",
+        "venue": "BP"
+      },
+      {
+        "date": "Sunday, April 13",
+        "homeTeam": "St Kilda",
+        "awayTeam": "GWS GIANTS",
+        "venue": "NO"
+      },
+      {
+        "date": "Sunday, April 13",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Hawthorn",
+        "venue": "AO"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 6,
+    "matches": [
+      {
+        "date": "Thursday, April 17",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Collingwood",
+        "venue": "G"
+      },
+      {
+        "date": "Friday, April 18",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Carlton",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Friday, April 18",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Essendon",
+        "venue": "OS"
+      },
+      {
+        "date": "Saturday, April 19",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Fremantle",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, April 19",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "GWS GIANTS",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, April 19",
+        "homeTeam": "Richmond",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Sunday, April 20",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Port Adelaide",
+        "venue": "SCG"
+      },
+      {
+        "date": "Sunday, April 20",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "St Kilda",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Monday, April 21",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Hawthorn",
+        "venue": "MCG"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 7,
+    "matches": [
+      {
+        "date": "Thursday, April 24",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Richmond",
+        "venue": "MCG"
+      },
+      {
+        "date": "Friday, April 25",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Essendon",
+        "venue": "MCG"
+      },
+      {
+        "date": "Friday, April 25",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Adelaide Crows",
+        "venue": "OS"
+      },
+      {
+        "date": "Saturday, April 26",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Brisbane Lions",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, April 26",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "North Melbourne",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, April 26",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Western Bulldogs",
+        "venue": "MO"
+      },
+      {
+        "date": "Sunday, April 27",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Sydney Swans",
+        "venue": "PFS"
+      },
+      {
+        "date": "Sunday, April 27",
+        "homeTeam": "Carlton",
+        "awayTeam": "Geelong Cats",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, April 27",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "West Coast Eagles",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 8,
+    "matches": [
+      {
+        "date": "Thursday, May 1",
+        "homeTeam": "Essendon",
+        "awayTeam": "North Melbourne",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Friday, May 2",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Fremantle",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, May 3",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Port Adelaide",
+        "venue": "MARS"
+      },
+      {
+        "date": "Saturday, May 3",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Carlton",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, May 3",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Geelong Cats",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 3",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Melbourne",
+        "venue": "OS"
+      },
+      {
+        "date": "Sunday, May 4",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "GWS GIANTS",
+        "venue": "SCG"
+      },
+      {
+        "date": "Sunday, May 4",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Richmond",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, May 4",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "G"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 9,
+    "matches": [
+      {
+        "date": "Thursday, May 8",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Collingwood",
+        "venue": "OS"
+      },
+      {
+        "date": "Friday, May 9",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Carlton",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 10",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Hawthorn",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 10",
+        "homeTeam": "Essendon",
+        "awayTeam": "Sydney Swans",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, May 10",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Western Bulldogs",
+        "venue": "TIO"
+      },
+      {
+        "date": "Saturday, May 10",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Adelaide Crows",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, May 11",
+        "homeTeam": "Richmond",
+        "awayTeam": "West Coast Eagles",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, May 11",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "GWS GIANTS",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "Sunday, May 11",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Brisbane Lions",
+        "venue": "NS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 10,
+    "matches": [
+      {
+        "date": "Thursday, May 15",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Hawthorn",
+        "venue": "TIO"
+      },
+      {
+        "date": "Friday, May 16",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Carlton",
+        "venue": "SCG"
+      },
+      {
+        "date": "Saturday, May 17",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Adelaide Crows",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 17",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Geelong Cats",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, May 17",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Fremantle",
+        "venue": "ES"
+      },
+      {
+        "date": "Saturday, May 17",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Essendon",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Sunday, May 18",
+        "homeTeam": "Richmond",
+        "awayTeam": "North Melbourne",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, May 18",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Melbourne",
+        "venue": "G"
+      },
+      {
+        "date": "Sunday, May 18",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "St Kilda",
+        "venue": "OS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 11,
+    "matches": [
+      {
+        "date": "Thursday, May 22",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Western Bulldogs",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "Friday, May 23",
+        "homeTeam": "Essendon",
+        "awayTeam": "Richmond",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 24",
+        "homeTeam": "Carlton",
+        "awayTeam": "GWS GIANTS",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, May 24",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Brisbane Lions",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 24",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Collingwood",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Saturday, May 24",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Port Adelaide",
+        "venue": "OS"
+      },
+      {
+        "date": "Sunday, May 25",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "West Coast Eagles",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, May 25",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Sydney Swans",
+        "venue": "MCG"
+      },
+      {
+        "date": "Sunday, May 25",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 12,
+    "matches": [
+      {
+        "date": "Thursday, May 29",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Essendon",
+        "venue": "G"
+      },
+      {
+        "date": "Friday, May 30",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Hawthorn",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, May 31",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Fremantle",
+        "venue": "PFS"
+      },
+      {
+        "date": "Saturday, May 31",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Richmond",
+        "venue": "ES"
+      },
+      {
+        "date": "Saturday, May 31",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Adelaide Crows",
+        "venue": "SCG"
+      },
+      {
+        "date": "Sunday, June 1",
+        "homeTeam": "Melbourne",
+        "awayTeam": "St Kilda",
+        "venue": "TP"
+      },
+      {
+        "date": "Sunday, June 1",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Geelong Cats",
+        "venue": "OS"
+      }
+    ],
+    "byes": [
+      "Carlton",
+      "North Melbourne",
+      "Port Adelaide",
+      "Western Bulldogs"
+    ]
+  },
+  {
+    "round": 13,
+    "matches": [
+      {
+        "date": "Thursday, June 5",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Hawthorn",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Friday, June 6",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Brisbane Lions",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, June 7",
+        "homeTeam": "Richmond",
+        "awayTeam": "Sydney Swans",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, June 7",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "Saturday, June 7",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Port Adelaide",
+        "venue": "MO"
+      },
+      {
+        "date": "Sunday, June 8",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "West Coast Eagles",
+        "venue": "HO"
+      },
+      {
+        "date": "Sunday, June 8",
+        "homeTeam": "Carlton",
+        "awayTeam": "Essendon",
+        "venue": "MCG"
+      },
+      {
+        "date": "Monday, June 9",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Collingwood",
+        "venue": "MCG"
+      }
+    ],
+    "byes": [
+      "Fremantle",
+      "St Kilda"
+    ]
+  },
+  {
+    "round": 14,
+    "matches": [
+      {
+        "date": "Thursday, June 12",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Western Bulldogs",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Friday, June 13",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Adelaide Crows",
+        "venue": "UTAS"
+      },
+      {
+        "date": "Saturday, June 14",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "GWS GIANTS",
+        "venue": "G"
+      },
+      {
+        "date": "Saturday, June 14",
+        "homeTeam": "Essendon",
+        "awayTeam": "Geelong Cats",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, June 14",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Fremantle",
+        "venue": "OS"
+      },
+      {
+        "date": "Sunday, June 15",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Melbourne",
+        "venue": "AO"
+      },
+      {
+        "date": "Sunday, June 15",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Carlton",
+        "venue": "OS"
+      }
+    ],
+    "byes": [
+      "Collingwood",
+      "Gold Coast SUNS",
+      "Richmond",
+      "Sydney Swans"
+    ]
+  },
+  {
+    "round": 15,
+    "matches": [
+      {
+        "date": "Thursday, June 19",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Essendon",
+        "venue": "OS"
+      },
+      {
+        "date": "Friday, June 20",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Brisbane Lions",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "Saturday, June 21",
+        "homeTeam": "Carlton",
+        "awayTeam": "North Melbourne",
+        "venue": "MCG"
+      },
+      {
+        "date": "Saturday, June 21",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Sydney Swans",
+        "venue": "AO"
+      },
+      {
+        "date": "Saturday, June 21",
+        "homeTeam": "Collingwood",
+        "awayTeam": "St Kilda",
+        "venue": "MRVL"
+      },
+      {
+        "date": "Sunday, June 22",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "ES"
+      },
+      {
+        "date": "Sunday, June 22",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Richmond",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": [
+      "Adelaide Crows",
+      "Hawthorn",
+      "Melbourne",
+      "West Coast Eagles"
+    ]
+  },
+  {
+    "round": 16,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Collingwood",
+        "awayTeam": "West Coast Eagles",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Fremantle",
+        "awayTeam": "St Kilda",
+        "venue": "OS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Melbourne",
+        "venue": "PFS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "North Melbourne",
+        "venue": "UTAS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Carlton",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Richmond",
+        "awayTeam": "Adelaide Crows",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Western Bulldogs",
+        "venue": "SCG"
+      }
+    ],
+    "byes": [
+      "Brisbane Lions",
+      "Essendon",
+      "Geelong Cats",
+      "GWS GIANTS"
+    ]
+  },
+  {
+    "round": 17,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Melbourne",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Port Adelaide",
+        "venue": "G"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Carlton",
+        "awayTeam": "Collingwood",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Essendon",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Richmond",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Western Bulldogs",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Hawthorn",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Fremantle",
+        "venue": "SCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "GWS GIANTS",
+        "venue": "OS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 18,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Carlton",
+        "awayTeam": "Brisbane Lions",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Hawthorn",
+        "venue": "OS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Collingwood",
+        "venue": "PFS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Geelong Cats",
+        "venue": "ES"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Melbourne",
+        "awayTeam": "North Melbourne",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "West Coast Eagles",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Richmond",
+        "awayTeam": "Essendon",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Sydney Swans",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Adelaide Crows",
+        "venue": "MARS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 19,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Western Bulldogs",
+        "venue": "G"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Carlton",
+        "awayTeam": "Melbourne",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Fremantle",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Essendon",
+        "awayTeam": "GWS GIANTS",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "St Kilda",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Port Adelaide",
+        "venue": "UTAS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "North Melbourne",
+        "venue": "SCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Richmond",
+        "venue": "OS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 20,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Port Adelaide",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Essendon",
+        "awayTeam": "Western Bulldogs",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Carlton",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Fremantle",
+        "awayTeam": "West Coast Eagles",
+        "venue": "OS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Brisbane Lions",
+        "venue": "PFS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "Sydney Swans",
+        "venue": "ES"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Geelong Cats",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Richmond",
+        "awayTeam": "Collingwood",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "St Kilda",
+        "awayTeam": "Melbourne",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 21,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Hawthorn",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Brisbane Lions",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Carlton",
+        "venue": "OS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Port Adelaide",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "Richmond",
+        "venue": "PFS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Melbourne",
+        "awayTeam": "West Coast Eagles",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "St Kilda",
+        "awayTeam": "North Melbourne",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Essendon",
+        "venue": "SCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "GWS GIANTS",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 22,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Sydney Swans",
+        "venue": "G"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Carlton",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Geelong Cats",
+        "awayTeam": "Essendon",
+        "venue": "GMHBA"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "North Melbourne",
+        "venue": "MO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Collingwood",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Melbourne",
+        "awayTeam": "Western Bulldogs",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Fremantle",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Richmond",
+        "awayTeam": "St Kilda",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Adelaide Crows",
+        "venue": "OS"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 23,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Adelaide Crows",
+        "awayTeam": "Collingwood",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Carlton",
+        "awayTeam": "Port Adelaide",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Essendon",
+        "awayTeam": "St Kilda",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Fremantle",
+        "awayTeam": "Brisbane Lions",
+        "venue": "OS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Gold Coast SUNS",
+        "awayTeam": "GWS GIANTS",
+        "venue": "PFS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Hawthorn",
+        "awayTeam": "Melbourne",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Richmond",
+        "venue": "NS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Sydney Swans",
+        "awayTeam": "Geelong Cats",
+        "venue": "SCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "West Coast Eagles",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": []
+  },
+  {
+    "round": 24,
+    "matches": [
+      {
+        "date": "TBC",
+        "homeTeam": "Brisbane Lions",
+        "awayTeam": "Hawthorn",
+        "venue": "G"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Collingwood",
+        "awayTeam": "Melbourne",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Essendon",
+        "awayTeam": "Carlton",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "GWS GIANTS",
+        "awayTeam": "St Kilda",
+        "venue": "ES"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "North Melbourne",
+        "awayTeam": "Adelaide Crows",
+        "venue": "MRVL"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Port Adelaide",
+        "awayTeam": "Gold Coast SUNS",
+        "venue": "AO"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Richmond",
+        "awayTeam": "Geelong Cats",
+        "venue": "MCG"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "West Coast Eagles",
+        "awayTeam": "Sydney Swans",
+        "venue": "OS"
+      },
+      {
+        "date": "TBC",
+        "homeTeam": "Western Bulldogs",
+        "awayTeam": "Fremantle",
+        "venue": "MRVL"
+      }
+    ],
+    "byes": []
+  }
+]

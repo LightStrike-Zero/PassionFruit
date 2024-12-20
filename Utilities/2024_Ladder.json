@@ -1,0 +1,113 @@
+{
+    "year": 2024,
+    "teams": [
+        {
+            "position": 1,
+            "team": "Sydney",
+            "points": 68,
+            "elo": 1673.4958434835846
+        },
+        {
+            "position": 2,
+            "team": "Port Adelaide",
+            "points": 64,
+            "elo": 1611.996893884272
+        },
+        {
+            "position": 3,
+            "team": "Geelong",
+            "points": 60,
+            "elo": 1683.3165608660804
+        },
+        {
+            "position": 4,
+            "team": "Greater Western Sydney",
+            "points": 60,
+            "elo": 1527.6281545037523
+        },
+        {
+            "position": 5,
+            "team": "Brisbane",
+            "points": 58,
+            "elo": 1623.0859458355314
+        },
+        {
+            "position": 6,
+            "team": "Western Bulldogs",
+            "points": 56,
+            "elo": 1613.2314005047106
+        },
+        {
+            "position": 7,
+            "team": "Hawthorn",
+            "points": 56,
+            "elo": 1589.476795071921
+        },
+        {
+            "position": 8,
+            "team": "Carlton",
+            "points": 52,
+            "elo": 1562.106266003821
+        },
+        {
+            "position": 9,
+            "team": "Collingwood",
+            "points": 52,
+            "elo": 1495.0134764081922
+        },
+        {
+            "position": 10,
+            "team": "Fremantle",
+            "points": 50,
+            "elo": 1480.8256487200463
+        },
+        {
+            "position": 11,
+            "team": "Essendon",
+            "points": 46,
+            "elo": 1427.6474396333176
+        },
+        {
+            "position": 12,
+            "team": "St Kilda",
+            "points": 44,
+            "elo": 1410.9890185579989
+        },
+        {
+            "position": 13,
+            "team": "Gold Coast",
+            "points": 44,
+            "elo": 1348.454225618994
+        },
+        {
+            "position": 14,
+            "team": "Melbourne",
+            "points": 44,
+            "elo": 1384.2645621487602
+        },
+        {
+            "position": 15,
+            "team": "Adelaide",
+            "points": 34,
+            "elo": 1405.598820133071
+        },
+        {
+            "position": 16,
+            "team": "West Coast",
+            "points": 20,
+            "elo": 1075.8541928876648
+        },
+        {
+            "position": 17,
+            "team": "North Melbourne",
+            "points": 12,
+            "elo": 951.2673658497347
+        },
+        {
+            "position": 18,
+            "team": "Richmond",
+            "points": 8,
+            "elo": 875.7373898885427
+        }
+    ]
+}
